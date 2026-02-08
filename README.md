@@ -14,7 +14,6 @@
 - **Frontend Development:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Node.js, Express.js, Postman
 - **Databases:**  MySQL (Relational Database/SQL), MongoDB (noSQL), Mongoose
-
-### Connect with me:
+  
 
 [LinkedIn](https://www.linkedin.com/in/m-ahmad-amin) [Email](mailto:mahmadamindw@gmail.com) [GitHub](https://github.com/m-ahmad-amin) [LeetCode](https://leetcode.com/u/mahmadamindw)
