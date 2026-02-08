@@ -13,8 +13,6 @@
 <a href="https://www.linkedin.com/in/m-ahmad-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-ahmad-amin" height="30" width="40" /></a>
 <a href="https://github.com/m-ahmad-amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/m-ahmad-amin" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/mahmadamindw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mahmadamindw" height="30" width="40" /></a>
-<a href="codeforces.com/profile/ahmad_amin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/ahmad_amin" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Skills</h3>
 <p align="left">
