@@ -1,4 +1,4 @@
-# Hi 🙋‍♂️, I'm Ahmad
+# Hi, I'm Ahmad
 
 ### CS and Full Stack Engineer | Exploring Data Science to solve real world problems.
 
