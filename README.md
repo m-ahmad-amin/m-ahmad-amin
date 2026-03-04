@@ -17,3 +17,7 @@
   
 
 [LinkedIn](https://www.linkedin.com/in/m-ahmad-amin) [Email](mailto:mahmadamindw@gmail.com) [GitHub](https://github.com/m-ahmad-amin) [LeetCode](https://leetcode.com/u/mahmadamindw)
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
