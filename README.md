@@ -15,7 +15,7 @@
 - **Backend:** Node.js, Express.js, Postman
 - **Databases:**  MySQL (Relational Database/SQL), MongoDB (noSQL), Mongoose
   
-### GitHub Stats:
+### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=m-ahmad-amin&theme=default&hide_border=false&include_all_commits=false&count_private=false)
 
