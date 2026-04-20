@@ -15,8 +15,16 @@
 - **Backend:** Node.js, Express.js, Postman
 - **Databases:**  MySQL (Relational Database/SQL), MongoDB (noSQL), Mongoose
   
+### GitHub Stats:
 
-[LinkedIn](https://www.linkedin.com/in/m-ahmad-amin) [Email](mailto:mahmadamindw@gmail.com) [GitHub](https://github.com/m-ahmad-amin) [LeetCode](https://leetcode.com/u/mahmadamindw)
+![](https://github-readme-stats.vercel.app/api?username=m-ahmad-amin&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+
+### Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/m-ahmad-amin)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:mahmadamindw@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/m-ahmad-amin)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/mahmadamindw)
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
