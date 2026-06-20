@@ -7,17 +7,7 @@
 - Solved 410+ DSA problems on **LeetCode**, ranking in the top 3% globally.
 - If you want to learn more about me and my work, check out my **[portfolio website](https://ahmad-portfoliowebsite.netlify.app)**.
 
-### Skills
-
-- **Programming Languages:** Java, Python, JavaScript
-- **Data Science:** Python, NumPy, Pandas, Matplotlib, Seaborn  
-- **Frontend Development:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js, Postman
-- **Databases:**  MySQL (Relational Database/SQL), MongoDB (noSQL), Mongoose
-  
-### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=m-ahmad-amin&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![Skills](https://res.cloudinary.com/dzzrxqiho/image/upload/v1781972045/Group_8_1_x6cqeg.png)
 
 ### Connect with me
 
