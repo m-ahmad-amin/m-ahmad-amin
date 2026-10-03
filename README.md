@@ -8,7 +8,9 @@
 - Solved 420+ DSA problems on **LeetCode**, ranking in the top 3% globally.
 - Want to know more? Check out my **[portfolio website](https://ahmad-portfoliowebsite.netlify.app)**.
 
-![Skills](https://res.cloudinary.com/dzzrxqiho/image/upload/v1791011206/Screenshot_2026-10-03_120357_exdaig.png)
+<a href="https://ahmad-portfoliowebsite.netlify.app/">
+  <img src="https://res.cloudinary.com/dzzrxqiho/image/upload/v1791011206/Screenshot_2026-10-03_120357_exdaig.png" alt="Skills" />
+</a>
 
 ### Connect with me
 
