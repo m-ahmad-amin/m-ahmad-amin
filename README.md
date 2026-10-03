@@ -1,4 +1,3 @@
-
 # Hi, I'm Ahmad 👋
 
 ### AI Research Assistant | Full Stack Engineer | Building efficient ML for the real world
@@ -9,7 +8,7 @@
 - 🧩 Solved 420+ DSA problems on **LeetCode**, ranking in the top 3% globally.
 - 👉 Want to know more? Check out my **[portfolio website](https://ahmad-portfoliowebsite.netlify.app)**.
 
-![Skills](https://res.cloudinary.com/dzzrxqiho/image/upload/v1781972045/Group_8_1_x6cqeg.png)
+![Skills](https://res.cloudinary.com/dzzrxqiho/image/upload/v1791011206/Screenshot_2026-10-03_120357_exdaig.png)
 
 ### Connect with me
 
